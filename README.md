@@ -9,6 +9,8 @@ Deployed via Netlify.
 ## Contributing
 
 Relevant PRs to this site are welcome.
+This was formerly a gist so there are probably typos and grammatical errors, so edits and additions welcome!
+
 
 Other ways to contribute:
 
