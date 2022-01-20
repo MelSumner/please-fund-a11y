@@ -2,9 +2,15 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/706f9952-ccb4-4673-8f26-b637db0671f7/deploy-status)](https://app.netlify.com/sites/fund-a11y/deploys)
 
-The website for pleasefunda11y.com.
+The repo contains the website for pleasefunda11y.com.
 Powered by HTML and CSS.
 Deployed via Netlify.
+
+## Concept
+
+Do you ever wish that you had a concise list of accessibility funding needs that you could share?
+This site aims to provide that list for easy reference.
+
 
 ## Contributing
 
